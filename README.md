@@ -2,28 +2,44 @@ structure of my project
 
 AI Health (folder)
 |
-|--Medical Reports (folder)
+(|--Medical Reports (folder)
     |
-    |--Medical Rerort - Michael Johnson - Panic Attack Disorder.txt
+    |--Medical Rerort - Michael Johnson - Panic Attack Disorder.txt)
+
+
+
+
+    
 |
-|--Results (folder)
+(|--Results (folder)
     |
-    |--final_diagnosis.txt
+    |--final_diagnosis.txt)
+
+
+
+
+
+    
 |
-|--Utils (folder)
+(|--Utils (folder)
     |
     |--__pycache__  (folder)
          |
          |--Agents.cpython-312.pyc
          |--PdfHandler.cpython-312.pyc
     |
-    |--Agents.py
+    |--Agents.py)
+
+
+
+
+
+
+    
 |
 |
 |--apikey.env
 |
 |--Main.py
-|
-|--README.md
 |
 |--requirements.txt
